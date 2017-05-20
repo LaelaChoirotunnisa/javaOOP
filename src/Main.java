@@ -10,6 +10,7 @@ public class Main {
         ArrayList<Circle> circles = new ArrayList<>();
         profiles.add(new Profile("Nur Aisyiatul Mahmudah","nuraisyiatul11@gmail.com"));
         profiles.add(new Profile("Elma Julia Devi","elmajulia12@gmail.com"));
+        profiles.add(new profile("Haidar Ali","haidarali18@gmail.com"));
         
         HashMap<String, Circle> circleHashMap = new HashMap<>();
     }
